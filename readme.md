@@ -32,3 +32,5 @@ To run the code, type `python Face.py`
 ```
 python Face.py
 ```
+### References
+https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/
