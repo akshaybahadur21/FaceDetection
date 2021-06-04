@@ -8,7 +8,7 @@ This code helps you to understand and detect faces using haar cascades through w
 
 The example code is in Python ([version 2.7](https://www.python.org/download/releases/2.7/) or higher will work). 
 
-## Description 🏎️
+## Description 💍
 
 Object Detection using Haar feature-based cascade classifiers is an effective object detection method proposed by Paul Viola and Michael Jones in their paper, "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001. It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images.
 
